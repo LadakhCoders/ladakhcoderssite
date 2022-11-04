@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ladakhcoderssite/static/css/main.073c9b0a.css",
+    "main.js": "/ladakhcoderssite/static/js/main.d8966bd1.js",
+    "static/js/787.e3360a8e.chunk.js": "/ladakhcoderssite/static/js/787.e3360a8e.chunk.js",
+    "static/media/logo.svg": "/ladakhcoderssite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ladakhcoderssite/index.html",
+    "main.073c9b0a.css.map": "/ladakhcoderssite/static/css/main.073c9b0a.css.map",
+    "main.d8966bd1.js.map": "/ladakhcoderssite/static/js/main.d8966bd1.js.map",
+    "787.e3360a8e.chunk.js.map": "/ladakhcoderssite/static/js/787.e3360a8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d8966bd1.js"
+  ]
+}
